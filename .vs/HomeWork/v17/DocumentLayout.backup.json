@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\HomeWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD24A495-5F01-399F-DC35-24D8A9A3803F}|Assembly-CSharp.csproj|c:\\users\\admin\\homework\\assets\\scripts\\moverotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD24A495-5F01-399F-DC35-24D8A9A3803F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\moverotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD24A495-5F01-399F-DC35-24D8A9A3803F}|Assembly-CSharp.csproj|c:\\users\\admin\\homework\\assets\\scripts\\cuberotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD24A495-5F01-399F-DC35-24D8A9A3803F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cuberotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD24A495-5F01-399F-DC35-24D8A9A3803F}|Assembly-CSharp.csproj|C:\\Users\\ADMIN\\HomeWork\\assets\\scripts\\capsulerotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD24A495-5F01-399F-DC35-24D8A9A3803F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\capsulerotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD24A495-5F01-399F-DC35-24D8A9A3803F}|Assembly-CSharp.csproj|c:\\users\\admin\\homework\\assets\\scripts\\sphererotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD24A495-5F01-399F-DC35-24D8A9A3803F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sphererotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoveRotate.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\HomeWork\\Assets\\Scripts\\MoveRotate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveRotate.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\HomeWork\\Assets\\Scripts\\MoveRotate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveRotate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:39:26.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SphereRotate.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\HomeWork\\Assets\\Scripts\\SphereRotate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SphereRotate.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\HomeWork\\Assets\\Scripts\\SphereRotate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SphereRotate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:39:25.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CapsuleRotate.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\HomeWork\\Assets\\Scripts\\CapsuleRotate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CapsuleRotate.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\HomeWork\\Assets\\Scripts\\CapsuleRotate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CapsuleRotate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:32:33.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CubeRotate.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\HomeWork\\Assets\\Scripts\\CubeRotate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CubeRotate.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\HomeWork\\Assets\\Scripts\\CubeRotate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CubeRotate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T14:27:02.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
