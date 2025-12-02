@@ -134,6 +134,8 @@ GameObject:
   - component: {fileID: 206225549}
   - component: {fileID: 206225548}
   - component: {fileID: 206225547}
+  - component: {fileID: 206225553}
+  - component: {fileID: 206225552}
   - component: {fileID: 206225551}
   m_Layer: 0
   m_Name: Cube (1)
@@ -237,12 +239,36 @@ MonoBehaviour:
   m_GameObject: {fileID: 206225546}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3ef78402f7dde3c45b9730a1afe79e06, type: 3}
+  m_Script: {fileID: 11500000, guid: 4c1810ac3a4282e4a94a4985d4d23455, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _speed: 5
-  _growSpeed: 0.5
+--- !u!114 &206225552
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 206225546}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d268ef3d6d44c448aa21f44dd5562b6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
   _rotationSpeed: 100
+--- !u!114 &206225553
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 206225546}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4d70f42d797d6f4fb10d3b40e8e64e7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _growSpeed: 0.5
 --- !u!1 &680830448
 GameObject:
   m_ObjectHideFlags: 0
